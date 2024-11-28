@@ -1,0 +1,10 @@
+[submodule "theme/hugo-theme-texify"]
+	path = theme/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/hermit-v2"]
+	path = themes/hermit-v2
+	url = https://github.com/1bl4z3r/hermit-V2
+	branch = main
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
