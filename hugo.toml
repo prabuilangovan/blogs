@@ -1,4 +1,0 @@
-baseURL = 'https://blogs.iprabu.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
