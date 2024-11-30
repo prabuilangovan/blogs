@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Index on </title>
-    <link>//localhost:1313/tags/index/</link>
-    <description>Recent content in Index on </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024, iprabu.com</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Index on</title><link>blogs.iprabu.com/tags/index/</link><description>Recent content in Index on</description><generator>Hugo</generator><language>en-us</language><copyright>© 2024, iprabu.com</copyright><lastBuildDate/><atom:link href="blogs.iprabu.com/tags/index/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

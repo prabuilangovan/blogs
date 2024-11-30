@@ -1,7 +1,7 @@
-baseURL = 'iprabu.com'
+baseURL = 'blogs.iprabu.com'
 languageCode = 'en-us'
 #title = "I.PRABU"
-author = "Steve Francia"
+author = "Prabu"
 copyright = "© 2024, iprabu.com"
 paginate = 3
 DefaultContentLanguage = "en"
