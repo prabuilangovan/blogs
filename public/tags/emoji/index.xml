@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emoji on</title><link>blogs.iprabu.com/tags/emoji/</link><description>Recent content in Emoji on</description><generator>Hugo</generator><language>en-us</language><copyright>© 2024, iprabu.com</copyright><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="blogs.iprabu.com/tags/emoji/index.xml" rel="self" type="application/rss+xml"/><item><title>Emoji Support</title><link>blogs.iprabu.com/post/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emoji on PaperMod</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/tags/emoji/</link>
+    <description>Recent content in Emoji on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>

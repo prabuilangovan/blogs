@@ -1,14 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>blogs.iprabu.com/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en-us</language><copyright>© 2024, iprabu.com</copyright><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="blogs.iprabu.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Placeholder Text</title><link>blogs.iprabu.com/post/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title/><link>blogs.iprabu.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>blogs.iprabu.com/post/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Rich Content</title><link>blogs.iprabu.com/post/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
-&lt;h2 id="heading">&lt;/h2></description></item><item><title>Math Typesetting</title><link>blogs.iprabu.com/post/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item><item><title>Emoji Support</title><link>blogs.iprabu.com/post/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/post/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item><item><title>About</title><link>blogs.iprabu.com/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/about/</guid><description>&lt;p>Written in Go, Hugo is an open source static site generator available under the &lt;a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.&lt;/a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p>
-&lt;p>Hugo makes use of a variety of open source projects including:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/viper">https://github.com/spf13/viper&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p></description></item><item><title>Contact</title><link>blogs.iprabu.com/contact/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>blogs.iprabu.com/contact/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://github.com/nanxiaobei">github.com/nanxiaobei&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://lee.so">lee.so&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <description>Recent content on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>Features / Mods</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>
